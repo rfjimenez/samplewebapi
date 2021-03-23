@@ -1,0 +1,116 @@
+Abaddon,STR,2,2.6,1.75
+Underlord,STR,2.6,2.9,1.77
+Alchemist,STR,1.8,2.1,1.77
+Ancient Apparition,INT,2.6,1.7,1.71
+Anti-Mage,AGI,1.8,1.3,2.04
+Arc Warden,AGI,2.6,3,2.06
+Axe,STR,1.6,2.8,5.01
+Bane,INT,2.4,2.4,1.75
+Batrider,INT,2.5,2.7,3.9
+Beastmaster,STR,1.9,2.5,1.75
+Bloodseeker,AGI,1.7,2.7,1.76
+Bounty Hunter,AGI,2,2.1,2.26
+Brewmaster,STR,1.25,3.2,2.33
+Bristleback,STR,2.8,2.2,1.74
+Broodmother,AGI,2,2.8,1.69
+Centaur Warrunner,STR,1.6,4.3,1.79
+Chaos Knight,STR,1.2,3.2,1.74
+Chen,INT,2.8,1.8,1.77
+Clinkz,AGI,1.7,1.9,1.93
+Crystal Maiden,INT,2.9,2,1.69
+Dark Seer,INT,2.7,2.9,1.76
+Dark Willow,INT,3,1.8,1.71
+Dazzle,INT,3.4,2.3,1.69
+Death Prophet,INT,3,2.9,1.7
+Disruptor,INT,2.5,2.2,1.72
+Doom,STR,2.1,3.5,1.78
+Dragon Knight,STR,1.7,3.1,1.7
+Drow Ranger,AGI,1.4,1.9,1.96
+Earth Spirit,STR,2.1,3.5,1.72
+Earthshaker,STR,1.8,3.2,2.89
+Elder Titan,STR,1.6,2.6,1.76
+Ember Spirit,AGI,1.8,2.4,2.29
+Enchantress,INT,3.1,1.3,1.7
+Enigma,INT,3.4,2.3,1.72
+Faceless Void,AGI,1.5,2.1,2.34
+Nature's Prophet,INT,2.9,2.4,1.72
+Grimstroke,INT,3.3,2.2,1.72
+Gyrocopter,AGI,2.1,2.1,1.7
+Huskar,STR,1.5,2.7,1.72
+Invoker,INT,4,2.2,1.69
+Jakiro,INT,2.8,2.6,1.79
+Juggernaut,AGI,1.4,2.2,2.3
+Keeper of the Light,INT,2.8,2.1,1.67
+Kunkka,STR,1.5,3.3,1.76
+Legion Commander,STR,2.2,2.9,1.78
+Leshrac,INT,3,2.1,1.69
+Lich,INT,3.25,1.85,1.71
+Lifestealer,STR,1.75,3.1,1.77
+Lina,INT,3.2,1.8,1.71
+Lion,INT,3,2,1.69
+Lone Druid,AGI,1.4,2.4,1.98
+Luna,AGI,1.85,2.2,1.67
+Lycan,STR,1.4,3.3,1.77
+Magnus,STR,1.65,3.2,2.33
+Medusa,AGI,2.1,1.3,1.66
+Meepo,AGI,1.6,1.6,2.05
+Mirana,AGI,1.65,2.15,1.69
+Monkey King,AGI,1.8,2.8,3.41
+Morphling,AGI,1.1,2.3,1.71
+Naga Siren,AGI,2,2.8,3.47
+Necrophos,INT,2.5,2.6,1.69
+Shadow Fiend,AGI,2,2.3,1.95
+Night Stalker,STR,1.6,3.1,3.78
+Nyx Assassin,AGI,2.1,2.3,5.39
+Outworld Devourer,INT,2.7,2.6,1.7
+Ogre Magi,INT,2,3.5,5.6
+Omniknight,STR,1.8,3.1,1.74
+Oracle,INT,3.5,2.2,1.71
+Pangolier,AGI,1.9,2.5,1.96
+Phantom Assassin,AGI,1.4,2.15,2.01
+Phantom Lancer,AGI,2,2,3.41
+Phoenix,STR,1.8,3.2,1.7
+Puck,INT,2.4,2,1.68
+Pudge,STR,1.5,3.5,1.77
+Pugna,INT,4.5,1.8,1.7
+Queen of Pain,INT,2.5,2.3,1.69
+Clockwerk,STR,1.3,3.2,1.78
+Razor,AGI,1.8,2.6,1.74
+Riki,AGI,1.3,1.9,3.39
+Rubick,INT,2.4,1.8,1.72
+Sand King,STR,1.8,2.9,1.74
+Shadow Demon,INT,2.7,2.4,1.75
+Shadow Shaman,INT,3,2.1,1.75
+Timbersaw,STR,2.4,2.1,1.72
+Silencer,INT,2.5,2.5,1.7
+Wraith King,STR,1.6,2.8,1.74
+Skywrath Mage,INT,3.6,1.8,1.72
+Slardar,STR,1.5,3.1,1.72
+Slark,AGI,1.7,1.9,3.74
+Sniper,AGI,2.6,1.7,1.68
+Spectre,AGI,1.9,2.3,1.72
+Spirit Breaker,STR,1.8,2.7,1.81
+Storm Spirit,INT,3,1.8,1.72
+Sven,STR,1.3,3,1.75
+Techies,INT,2.9,2.3,1.7
+Templar Assassin,AGI,2,2.4,1.99
+Terrorblade,AGI,1.6,1.7,1.67
+Tidehunter,STR,1.7,3.3,1.74
+Tinker,INT,2.2,2.3,1.68
+Tiny,STR,1.6,3.6,1.82
+Treant Protector,STR,1.8,3.6,1.77
+Troll Warlord,AGI,1,2.5,2.01
+Tusk,STR,1.7,3,1.75
+Undying,STR,2.8,2.4,1.74
+Ursa,AGI,1.5,3.3,2.34
+Vengeful Spirit,AGI,1.5,2.9,1.99
+Venomancer,AGI,1.8,1.9,1.7
+Viper,AGI,1.8,2.4,1.72
+Visage,INT,2.5,3,1.76
+Warlock,INT,2.7,2.8,1.76
+Weaver,AGI,1.8,1.8,2.79
+Windranger,INT,2.6,2.8,1.68
+Winter Wyvern,INT,3.1,2.4,1.78
+Io,STR,1.7,2.2,1.68
+Witch Doctor,INT,2.9,2.1,1.69
+Zeus,INT,2.7,2.3,1.72
